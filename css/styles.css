@@ -74,6 +74,10 @@ h3 {
     color: white;
 }
 
+.hospedaje {
+    color: #274154;
+}
+
 .contenido-hero form {
     grid-column: 2/3;
     grid-row: 2/3;
